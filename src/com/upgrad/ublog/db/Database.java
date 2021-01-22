@@ -29,7 +29,7 @@ public class Database {
 
             String url = "jdbc:mysql://localhost/ublog";
             String username = "root";
-            String password = "muhsin";
+            String password = "nitin";
 
             try {
                 Class.forName("com.mysql.cj.jdbc.Driver");
